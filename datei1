@@ -1,0 +1,1 @@
+Invoke-WebRequest -Uri https://artifactory.psp.bka.bund.de/artifactory/api/vcs/downloadBranch/github-remote/fdingeld/Land-of-Lisp/master -OutFile lof.tar
